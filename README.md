@@ -36,6 +36,6 @@ The dataset includes over 4,000 job postings with details such as:
 - Gained experience building a full exploratory analysis pipeline from scratch
 
 ## Language note  
-The original notebook and comments are in Russian, as this was a Russian-language bootcamp. However, all visuals and logic are understandable regardless of language. Key project details are summarized here in English.
+The original notebook and comments are in Russian, as this was a Russian-language bootcamp.
 
 
